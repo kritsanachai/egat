@@ -22,13 +22,13 @@
         }
         p {
 
-            font-size: 18px;
+            font-size: 15px;
         }
         h5 {
             text-align: center;
             margin-top: auto;
             padding: 5px;
-            font-size: 30px;
+            font-size: 23px;
             font-weight: bold;
         }
     </style>
