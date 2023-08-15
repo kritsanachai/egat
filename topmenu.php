@@ -34,61 +34,87 @@
     </style>
     <div class="container-fluid">
         <div class="card-deck text-center">
+
             <!------------------- Box 1 --------------------------->
-            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-6">
-                <div class="card shadow">
+            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
+                <div class="card shadow h-100">
                     <div class="card-header bg-warning "></div>
                     <div class="card-body">
-                        <h5 class="card-title">กสคป-ห. </h5> <!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
-                        <p class="text-muted">งานตรวจวัดด้านความปลอดภัย, งานส่งเสริมความปลอดภัย, งานตรวจวัดสภาพแวดล้อมในการทำงาน, งานอบรมความปลอดภัย</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
+                        <h5 class="card-title"> ระเบียบ คำสั่ง ประกาศ กฟผ. </h5> <!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
+                        <p class="text-muted"> คำสั่ง กฟผ. ด้านความปลอดภัย,  นโยบายทรัพยากรบุคคล กฟผ.</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
                     </div>
-                    <div class="card-footer "><a class="btn btn-light" href="#" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
+                    <div class="card-footer "><a class="btn btn-light" href="https://ssdd.egat.co.th/2566/index.php/m-%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3/%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%81%E0%B8%9F%E0%B8%9C-%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
                 </div>
             </div>
             <!------------------- Box 1 --------------------------->
 
 
             <!------------------- Box 2 --------------------------->
-            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-6">
-                <div class="card shadow">
+            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
+                <div class="card shadow h-100">
                     <div class="card-header bg-danger "></div>
                     <div class="card-body">
-                        <h5 class="card-title">กปป-ห. </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
-                        <p class="text-muted">งานบริการรักษาความปลอดภัย, งานบัตรแสดงตน, บัตรอนุญาตติดรถยนต์, กล้องโทรทัศน์วงจรปิด, ขอที่จอดรถยนต์</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
+                        <h5 class="card-title"> ระเบียบคำสั่งประกาศ จปภ. </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
+                        <p class="text-muted"> คำสั่งเจ้าหน้าที่ควบคุมการรักษาความปลอดภัย, ประกาศผู้รักษาบริเวณสำนักงานกลาง กฟผ., ประกาศเจ้าหน้าที่ควบคุมการรักษาความปลอดภัย</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
                     </div>
-                    <div class="card-footer"><a class="btn btn-light" href="#" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
+                    <div class="card-footer"><a class="btn btn-light" href="https://ssdd.egat.co.th/2566/index.php/m-%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3/%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%94%E0%B8%A2-%E0%B8%88%E0%B8%9B%E0%B8%A0-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%93" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
                 </div>
             </div>
             <!------------------- Box 2 --------------------------->
 
 
             <!------------------- Box 3 --------------------------->
-            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-6">
-                <div class="card shadow">
+            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
+                <div class="card shadow h-100">
                     <div class="card-header bg-success "></div>
                     <div class="card-body">
-                        <h5 class="card-title">กกคป-ห.</h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
+                        <h5 class="card-title"> สื่อส่งเสริมความปลอดภัย </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
                         <p class="text-muted">งานตรวจประเมิน (Audit), ข้อมูลสำหรับ Auditor, ข้อมูลสำหรับหน่วยงานรับตรวจ</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
                     </div>
-                    <div class="card-footer"><a class="btn btn-light" href="#" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
+                    <div class="card-footer"><a class="btn btn-light" href="https://ssdd.egat.co.th/2566/index.php/pr-news/39-news-2565/235-%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-%E0%B8%9E-%E0%B8%A2-2565" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
                 </div>
             </div>
             <!------------------- Box 3 --------------------------->
 
 
             <!------------------- Box 4 --------------------------->
-            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-6">
-                <div class="card shadow">
+            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
+                <div class="card shadow h-100">
                     <div class="card-header bg-primary "></div>
                     <div class="card-body">
-                        <h5 class="card-title">กวปส-ห.</h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
-                        <p class="text-muted">งานบริหารความเสี่ยงด้านปฏิบัติการ, งานบริหารระบบความต่อเนื่องทางธุรกิจ</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
+                        <h5 class="card-title"> incident management </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
+                        <p class="text-muted"> อยู่ระหว่างดำเนินการ</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
                     </div>
                     <div class="card-footer"><a class="btn btn-light" href="#" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
                 </div>
             </div>
             <!------------------- Box 4 --------------------------->
 
+            <!------------------- Box 5 --------------------------->
+            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
+                <div class="card shadow h-100">
+                    <div class="card-header bg-warning "></div>
+                    <div class="card-body">
+                        <h5 class="card-title"> ระบบขออนุญาต </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
+                        <p class="text-muted">สำรองที่จอดรถ, ทำบัตรแสดงตน, ทำบัตรอนุญาตติดรถยนต์, ขออนุญาตนำของออก, ขอตรวจสอบกล้อง CCTV</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
+                    </div>
+                    <div class="card-footer"><a class="btn btn-light" href="https://ssdd.egat.co.th/2566/index.php/m-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99-non-it-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%AD%E0%B8%87/%E0%B8%81%E0%B8%9B%E0%B8%9B-%E0%B8%AB" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
+                </div>
+            </div>
+            <!------------------- Box 5 --------------------------->
+
+            <!------------------- Box 6 --------------------------->
+            <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
+                <div class="card shadow h-100">
+                    <div class="card-header bg-danger "></div>
+                    <div class="card-body">
+                        <h5 class="card-title"> คปอ. สนญ. </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
+                        <p class="text-muted">งานคปอ. สนญ.</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
+                    </div>
+                    <div class="card-footer"><a class="btn btn-light" href="http://ohsec.egat.co.th/" target="_blank">ดูรายละเอียด <i class="fas fa-link"></i></a></div><!-------- บรรทัดนี้ ใช้ใน Link ไปหน้าที่ต้องการให้แสดงผล สมารถเปลี่ยนได้ ใน href="??????????" ---------->
+                </div>
+            </div>
+            <!------------------- Box 6 --------------------------->
 
         </div>
 
