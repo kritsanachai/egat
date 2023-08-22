@@ -93,7 +93,7 @@
             <!------------------- Box 5 --------------------------->
             <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
                 <div class="card shadow h-100">
-                    <div class="card-header bg-warning "></div>
+                    <div class="card-header bg-secondary "></div>
                     <div class="card-body">
                         <h5 class="card-title"> ระบบขออนุญาต </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
                         <p class="text-muted">สำรองที่จอดรถ, ทำบัตรแสดงตน, ทำบัตรอนุญาตติดรถยนต์, ขออนุญาตนำของออก, ขอตรวจสอบกล้อง CCTV</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
@@ -106,7 +106,7 @@
             <!------------------- Box 6 --------------------------->
             <div class="gy-3 my-3 col-sm-12 col-md-6 col-lg-4">
                 <div class="card shadow h-100">
-                    <div class="card-header bg-danger "></div>
+                    <div class="card-header bg-info "></div>
                     <div class="card-body">
                         <h5 class="card-title"> คปอ. สนญ. </h5><!-------- บรรทัดนี้ ใช้ในการแสดงหัวข้อ (Title) ---------->
                         <p class="text-muted">งานคปอ. สนญ.</p><!-------- บรรทัดนี้ ใช้ในการแสดงรายละเอียด (Desciption) ---------->
